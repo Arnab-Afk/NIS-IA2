@@ -1,0 +1,5 @@
+alice:secret123
+bob:admin123
+charlie:letmein
+
+3 password hashes cracked, 0 left

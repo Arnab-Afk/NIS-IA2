@@ -1,0 +1,9 @@
+[+] Starting dictionary attack at 2026-03-31 10:00:00
+Loaded 3 password hashes with 3 different salts (crypt, generic crypt(3) [?/64])
+Will run 8 OpenMP threads
+Press 'q' or Ctrl-C to abort, almost any other key for status
+secret123        (alice)
+admin123         (bob)
+letmein          (charlie)
+3g 0:00:00:00 DONE (2026-03-31 10:00) 42.85g/s 471.4p/s 471.4c/s 471.4C/s password..secret123
+Use the "--show" option to display all of the cracked passwords reliably

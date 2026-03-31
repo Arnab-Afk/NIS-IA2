@@ -1,0 +1,6 @@
+# No Python dependencies required for this demo.
+# Main tools are installed at system level:
+# - john (John the Ripper)
+# - zip2john (usually bundled with john jumbo)
+# - openssl
+# - zip

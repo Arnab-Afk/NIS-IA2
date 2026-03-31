@@ -1,0 +1,2 @@
+# Generate with: zip2john samples/protected.zip > samples/protected_zip.hash
+# Placeholder file for reproducibility notes.
